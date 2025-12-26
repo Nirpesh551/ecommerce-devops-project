@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+.env
+
+# Docker
+*.log
+
+# Misc
+*.DS_Store
